@@ -402,5 +402,7 @@ defineExpose({
   close,
   /** @description highlight an item in a suggestion */
   highlight,
+  /** @description run load results */
+  highlight,
 })
 </script>
